@@ -3,7 +3,7 @@
 
 📍 Kerala, India | 📧 amalbinu000@gmail.com | 📞 +91 6238877396  
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-blue?style=flat&logo=vercel)](https://vercel.com/amalbinu000s-projects/my-portfolio)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-blue?style=flat&logo=vercel)](https://my-portfolio-ten-pi-27.vercel.app/)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amal-binu-228959173/)  
 [![Resume](https://img.shields.io/badge/-Resume-orange?style=flat)](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=67dc2e04f474aed7a1d60369)  
 
